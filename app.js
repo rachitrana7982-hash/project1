@@ -1,1 +1,1 @@
-#ad new thing
+//ad new thing
